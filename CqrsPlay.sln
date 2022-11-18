@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Play.Api", "Play.Api\Play.Api.csproj", "{21F32000-F367-4AF8-A83C-151A34A6EC8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Play.Domain", "Play.Domain\Play.Domain.csproj", "{DAE27E5E-228D-4A3B-8B8B-026F33C4DB9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Play.Infrastructure", "Play.Infrastructure\Play.Infrastructure.csproj", "{896D6EA7-7474-4B10-8B96-D733F3013012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21F32000-F367-4AF8-A83C-151A34A6EC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F32000-F367-4AF8-A83C-151A34A6EC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F32000-F367-4AF8-A83C-151A34A6EC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F32000-F367-4AF8-A83C-151A34A6EC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE27E5E-228D-4A3B-8B8B-026F33C4DB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE27E5E-228D-4A3B-8B8B-026F33C4DB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE27E5E-228D-4A3B-8B8B-026F33C4DB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE27E5E-228D-4A3B-8B8B-026F33C4DB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{896D6EA7-7474-4B10-8B96-D733F3013012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896D6EA7-7474-4B10-8B96-D733F3013012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896D6EA7-7474-4B10-8B96-D733F3013012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896D6EA7-7474-4B10-8B96-D733F3013012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
